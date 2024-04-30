@@ -44,12 +44,12 @@ Example usage:
 poius encode /path/to/file.txt
 
 # Decode a file
-poius decode /path/to/encoded_file.txt
+poius decode /path/to/file.txt.encoded
 ```
 
 ## Documentation
 
-For more detailed information about Poius and its usage, please refer to the [Documentation](./docs/README.md).
+For more detailed information about Poius and its usage, please refer to the [Documentation](https://docs.rs/poius).
 
 ## License
 
