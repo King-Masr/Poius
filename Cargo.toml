@@ -1,6 +1,6 @@
 [package]
 name = "poius"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Aly Ahmed Aly <aaly28623@gmail.com>"]
 edition = "2021"
 rust-version = "1.77.2"
